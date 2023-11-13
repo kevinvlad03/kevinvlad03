@@ -42,4 +42,7 @@ Here are some of the technologies and skills I've acquired during my journey:
 ## GitHub Repositories
 Explore some of my projects and contributions on my GitHub profile: [Vlad's Repositories](https://github.com/kevinvlad03?tab=repositories).
 
+Let's Connect!
+Connect with me on LinkedIn: [Vlad on LinkedIn.](https://www.linkedin.com/in/kevinvlad03/)
+
 Feel free to reach out, collaborate, or provide feedback on any of my projects. Let's code and learn together! 🚀✨
