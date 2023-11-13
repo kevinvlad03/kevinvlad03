@@ -1,6 +1,6 @@
-# Kevin Vlad - Computer Science Enthusiast 👨‍💻
+# Dumitru Vlad - Computer Science Enthusiast 👨‍💻
 
-Welcome to my GitHub profile! I'm Kevin Vlad, a passionate computer science student with a thirst for knowledge and a love for technology. 🚀
+Welcome to my GitHub profile! I'm Vlad, or Kevin, as everyone calls me, a passionate computer science student with a thirst for knowledge and a love for technology. 🚀
 
 ## About Me
 - 🎓 I am a dedicated student in the field of computer science, constantly striving to expand my horizons.
@@ -40,6 +40,6 @@ Here are some of the technologies and skills I've acquired during my journey:
 - 🐧 Linux
 
 ## GitHub Repositories
-Explore some of my projects and contributions on my GitHub profile: [Kevin Vlad's Repositories](https://github.com/kevinvlad03?tab=repositories).
+Explore some of my projects and contributions on my GitHub profile: [Vlad's Repositories](https://github.com/kevinvlad03?tab=repositories).
 
 Feel free to reach out, collaborate, or provide feedback on any of my projects. Let's code and learn together! 🚀✨
