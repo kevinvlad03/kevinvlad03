@@ -11,10 +11,12 @@ Welcome to my GitHub profile! I'm Vlad, or Kevin, as everyone calls me, a passio
 Here are some of the technologies and skills I've acquired during my journey:
 
 ### Programming Languages
+- 🐍 Python
 - 📚 C++
 - ☕ Java
 - 🐘 PHP
 - 🚀 JavaScript (including React.JS)
+- ⚙️ Rust
 
 ### Data Structures and Algorithms
 - 🧠 Strong foundation in Data Structures and Algorithms (DSA)
